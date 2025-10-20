@@ -1,2 +1,2 @@
-# 20251002_arcgis-notebook-handson-review
-ArcGIS Notebooks ハンズオン
+# ArcGIS Notebooks ハンズオン
+## ArcGIS Notebooks ハンズオン
