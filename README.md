@@ -1,2 +1,2 @@
 # 20251002_arcgis-notebook-handson-review
-Notebookハンズオン資料レビュー用のリポジトリです
+ArcGIS Notebooks ハンズオン
