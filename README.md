@@ -1,6 +1,6 @@
 # ArcGIS Notebooks ハンズオン
 ## ハンズオンの内容
-ハンズオン前半：[ArcGIS Notebooks の基本操作](./Hello_Notebook.ipynb)
+ハンズオン前半：[ArcGIS Notebooks の基本操作](./Hello_Notebook.ipynb)  
 ハンズオン後半：[ArcGIS Notebooks を使用した解析の実行](./Spatial_Analysis_with_ArcGIS_Notebooks.ipynb)
 ## 必要な環境
 - ArcGIS Online
